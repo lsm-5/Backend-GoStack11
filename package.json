@@ -1,0 +1,11 @@
+{
+  "name": "Backend-GoStack11",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lsm-5/Backend-GoStack11.git",
+  "author": "Lucas Mendonça <lsm5@cin.ufpe.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
