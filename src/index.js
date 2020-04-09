@@ -6,4 +6,6 @@ app.get("/projects", (req, res) => {
   return res.json({ message: "Hello Programmer" });
 });
 
-app.listen(3333);
+app.listen(3333, () => {
+  console.log("👨‍🚀 Server started!");
+});
